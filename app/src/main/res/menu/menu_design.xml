@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Anasayfa"
+        android:icon="@drawable/iconshome"
+        android:background="@drawable/btns_back"
+        />
+    <item
+        android:title="Arama"
+        android:icon="@drawable/iconssearch"
+        android:background="@drawable/btns_back"
+        />
+    <item
+        android:title="İndirilenler"
+        android:icon="@drawable/iconsdownload"
+        android:background="@drawable/btns_back"
+        />
+    <item
+        android:title="Profil"
+        android:icon="@drawable/iconsprofile"
+        android:background="@drawable/btns_back"/>
+</menu>
